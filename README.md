@@ -1,24 +1,4 @@
-# README
+# ODIN KITTENS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A project developed as a way to learn to develop api only apps with rails on the odin project curriculum
+https://www.theodinproject.com/lessons/ruby-on-rails-kittens-api#assignment-2
